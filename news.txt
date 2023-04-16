@@ -1,6 +1,10 @@
 <html>Noticias:<br>
+Ya ha salido la version 1.3.0!<br>
+En esta version se han arreglado algunos problemas y se ha añadido una pantalla de inicio.<br>
+Pero no te preocupes, el juego seguira siendo gratis(O eso espero)<br>
+--------------------------------------------<br>
 Bienvenido al launcher gratuito de MiBox.<br>
 Aqui podrás usar todas las versiones de este juego sin limitaciones.<br>
-Aquí te informaremos cuando tengas que actualizar el launcher para usar la version '1.3.0'.<br>
+Aquí te informaremos cuando tengas que actualizar el launcher para usar la version '1.4.0'.<br>
 Hasta luego!<br>
 </html>
