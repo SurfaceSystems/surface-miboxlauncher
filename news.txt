@@ -1,5 +1,6 @@
-Noticias:
-Bienvenido al launcher gratuito de MiBox.
-Aqui podrás usar todas las versiones de este juego sin limitaciones.
-Aquí te informaremos cuando tengas que actualizar el launcher para usar la version '1.3.0'.
-Hasta luego!
+<html>Noticias:<br>
+Bienvenido al launcher gratuito de MiBox.<br>
+Aqui podrás usar todas las versiones de este juego sin limitaciones.<br>
+Aquí te informaremos cuando tengas que actualizar el launcher para usar la version '1.3.0'.<br>
+Hasta luego!<br>
+</html>
