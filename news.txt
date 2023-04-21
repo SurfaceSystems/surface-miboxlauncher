@@ -1,4 +1,9 @@
 <html>Noticias:<br>
+Ya ha salido la version 1.5.0 y la version del launcher v_0.3.1!<br>
+Ahora el launcher es auto-actualizable.<br>
+En esta version hemos añadido una casa con un bloque nuevo y hemos mejorado la UI.
+Ahora puedes cambiar tu nombre.
+--------------------------------------------<br>
 Ya ha salido la version 1.4.0 y la version del launcher v_0.3!<br>
 Se ha anadido una opcion para guardar y cargar mundos y estamos trabajando para un sistema de nombre e inventario.<br>
 El launcher ahora es mas facil de usar y tiene todas las versiones del juego.<br>
