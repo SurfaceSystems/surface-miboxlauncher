@@ -1,10 +1,15 @@
 <html>Noticias:<br>
+Ya ha salido la version 1.4.0 y la version del launcher v_0.3!<br>
+Se ha anadido una opcion para guardar y cargar mundos y estamos trabajando para un sistema de nombre e inventario.<br>
+El launcher ahora es mas facil de usar y tiene todas las versiones del juego.<br>
+Estate atento porque la proxima version del launcher sera auto-actualizable y no tendras que volverlo a descargar.<br>
+--------------------------------------------<br>
 Ya ha salido la version 1.3.0!<br>
-En esta version se han arreglado algunos problemas y se ha añadido una pantalla de inicio.<br>
+En esta version se han arreglado algunos problemas y se ha anadido una pantalla de inicio.<br>
 Pero no te preocupes, el juego seguira siendo gratis(O eso espero)<br>
 --------------------------------------------<br>
 Bienvenido al launcher gratuito de MiBox.<br>
 Aqui podras usar todas las versiones de este juego sin limitaciones.<br>
-Aquí te informaremos cuando tengas que actualizar el launcher para usar la version '1.4.0'.<br>
+Aqui te informaremos cuando tengas que actualizar el launcher para usar la version '1.5.0'.<br>
 Hasta luego!<br>
 </html>
