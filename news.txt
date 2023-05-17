@@ -1,4 +1,10 @@
 <html>Noticias:<br>
+17-05-23 19:59 - Acaba de salir la v_1.5.1<br>
+Se ha intentado arreglar el multijugador y el sistema de bloques pere nos dimos por vencidos.<br>
+Total, hemos(he) arreglado algunos problemas y hecho el launcher mas "natural".<br>
+Ahora estaremos trabajando con otros proyectos y sistemas operativos, se estima que la 1.16 se subira a mediados de agosto.<br>
+Gracias por su espera y disfruten de lo poco que hay en el juego ;)<br>
+--------------------------------------------<br>
 Ya ha salido la version 1.5.0 y la version del launcher v_0.3.1!<br>
 Ahora el launcher es auto-actualizable.<br>
 En esta version hemos añadido una casa con un bloque nuevo y hemos mejorado la UI.<br>
